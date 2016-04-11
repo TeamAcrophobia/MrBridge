@@ -1,0 +1,10 @@
+G:\secrets\Bridge\Bridge\bin\Release\Bridge.exe.config
+G:\secrets\Bridge\Bridge\bin\Release\Bridge.exe
+G:\secrets\Bridge\Bridge\bin\Release\DirectShowLib-2005.dll
+G:\secrets\Bridge\Bridge\bin\Release\Splicer.dll
+G:\secrets\Bridge\Bridge\obj\Release\Bridge.About.resources
+G:\secrets\Bridge\Bridge\obj\Release\Bridge.Help.resources
+G:\secrets\Bridge\Bridge\obj\Release\Bridge.MainForm.resources
+G:\secrets\Bridge\Bridge\obj\Release\Bridge.Translator.resources
+G:\secrets\Bridge\Bridge\obj\Release\Bridge.csproj.GenerateResource.Cache
+G:\secrets\Bridge\Bridge\obj\Release\Bridge.exe

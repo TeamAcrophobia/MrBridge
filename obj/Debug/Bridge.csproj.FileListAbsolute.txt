@@ -1,0 +1,73 @@
+C:\Users\Mama\Documents\SharpDevelop Projects\Bridge\Bridge\bin\Debug\Bridge.exe.config
+C:\Users\Mama\Documents\SharpDevelop Projects\Bridge\Bridge\bin\Debug\Bridge.exe
+C:\Users\Mama\Documents\SharpDevelop Projects\Bridge\Bridge\bin\Debug\Bridge.pdb
+C:\Users\Mama\Documents\SharpDevelop Projects\Bridge\Bridge\obj\Debug\Bridge.csprojResolveAssemblyReference.cache
+C:\Users\Mama\Documents\SharpDevelop Projects\Bridge\Bridge\obj\Debug\Bridge.MainForm.resources
+C:\Users\Mama\Documents\SharpDevelop Projects\Bridge\Bridge\obj\Debug\Bridge.csproj.GenerateResource.Cache
+C:\Users\Mama\Documents\SharpDevelop Projects\Bridge\Bridge\obj\Debug\Bridge.exe
+C:\Users\Mama\Documents\SharpDevelop Projects\Bridge\Bridge\obj\Debug\Bridge.pdb
+C:\Users\Mama\Documents\SharpDevelop Projects\Bridge\Bridge\obj\Debug\Bridge.About.resources
+C:\Users\Mama\Documents\SharpDevelop Projects\Bridge\Bridge\obj\Debug\Bridge.Help.resources
+C:\Users\Mama\Documents\SharpDevelop Projects\Bridge\Bridge\obj\Debug\Bridge.Translator.resources
+F:\Bridge\Bridge\obj\Debug\Bridge.csprojResolveAssemblyReference.cache
+F:\Bridge\Bridge\obj\Debug\Bridge.About.resources
+F:\Bridge\Bridge\obj\Debug\Bridge.Help.resources
+F:\Bridge\Bridge\obj\Debug\Bridge.MainForm.resources
+F:\Bridge\Bridge\obj\Debug\Bridge.Translator.resources
+F:\Bridge\Bridge\obj\Debug\Bridge.csproj.GenerateResource.Cache
+F:\Bridge\Bridge\obj\Debug\Bridge.exe
+F:\Bridge\Bridge\bin\Debug\Bridge.exe.config
+F:\Bridge\Bridge\bin\Debug\Bridge.exe
+F:\Bridge\Bridge\bin\Debug\Bridge.pdb
+F:\Bridge\Bridge\obj\Debug\Bridge.pdb
+E:\Bridge\Bridge\bin\Debug\Bridge.exe.config
+E:\Bridge\Bridge\bin\Debug\Bridge.exe
+E:\Bridge\Bridge\bin\Debug\Bridge.pdb
+E:\Bridge\Bridge\obj\Debug\Bridge.csprojResolveAssemblyReference.cache
+E:\Bridge\Bridge\obj\Debug\Bridge.About.resources
+E:\Bridge\Bridge\obj\Debug\Bridge.Help.resources
+E:\Bridge\Bridge\obj\Debug\Bridge.MainForm.resources
+E:\Bridge\Bridge\obj\Debug\Bridge.Translator.resources
+E:\Bridge\Bridge\obj\Debug\Bridge.csproj.GenerateResource.Cache
+E:\Bridge\Bridge\obj\Debug\Bridge.exe
+E:\Bridge\Bridge\obj\Debug\Bridge.pdb
+G:\Bridge\Bridge\bin\Debug\Bridge.exe.config
+G:\Bridge\Bridge\bin\Debug\Bridge.exe
+G:\Bridge\Bridge\bin\Debug\Bridge.pdb
+G:\Bridge\Bridge\obj\Debug\Bridge.csprojResolveAssemblyReference.cache
+G:\Bridge\Bridge\obj\Debug\Bridge.About.resources
+G:\Bridge\Bridge\obj\Debug\Bridge.Help.resources
+G:\Bridge\Bridge\obj\Debug\Bridge.MainForm.resources
+G:\Bridge\Bridge\obj\Debug\Bridge.Translator.resources
+G:\Bridge\Bridge\obj\Debug\Bridge.csproj.GenerateResource.Cache
+G:\Bridge\Bridge\obj\Debug\Bridge.exe
+G:\Bridge\Bridge\obj\Debug\Bridge.pdb
+G:\ \Bridge\Bridge\bin\Debug\Bridge.exe.config
+G:\ \Bridge\Bridge\obj\Debug\Bridge.exe
+G:\ \Bridge\Bridge\obj\Debug\Bridge.pdb
+G:\secrets\Bridge\Bridge\bin\Debug\Bridge.exe.config
+G:\secrets\Bridge\Bridge\obj\Debug\Bridge.exe
+G:\secrets\Bridge\Bridge\obj\Debug\Bridge.pdb
+G:\secrets\Bridge\Bridge\bin\Debug\Bridge.exe
+G:\secrets\Bridge\Bridge\bin\Debug\Bridge.pdb
+G:\secrets\Bridge\Bridge\bin\Debug\DirectShowLib-2005.dll
+G:\secrets\Bridge\Bridge\bin\Debug\Splicer.dll
+G:\secrets\Bridge\Bridge\obj\Debug\Bridge.csprojResolveAssemblyReference.cache
+G:\secrets\Bridge\Bridge\obj\Debug\Bridge.About.resources
+G:\secrets\Bridge\Bridge\obj\Debug\Bridge.Help.resources
+G:\secrets\Bridge\Bridge\obj\Debug\Bridge.MainForm.resources
+G:\secrets\Bridge\Bridge\obj\Debug\Bridge.Translator.resources
+G:\secrets\Bridge\Bridge\obj\Debug\Bridge.csproj.GenerateResource.Cache
+F:\secrets\Bridge\Bridge\bin\Debug\Bridge.exe.config
+F:\secrets\Bridge\Bridge\obj\Debug\Bridge.exe
+F:\secrets\Bridge\Bridge\obj\Debug\Bridge.pdb
+F:\secrets\Bridge\Bridge\bin\Debug\Bridge.exe
+F:\secrets\Bridge\Bridge\bin\Debug\Bridge.pdb
+F:\secrets\Bridge\Bridge\bin\Debug\DirectShowLib-2005.dll
+F:\secrets\Bridge\Bridge\bin\Debug\Splicer.dll
+F:\secrets\Bridge\Bridge\obj\Debug\Bridge.csprojResolveAssemblyReference.cache
+F:\secrets\Bridge\Bridge\obj\Debug\Bridge.About.resources
+F:\secrets\Bridge\Bridge\obj\Debug\Bridge.Help.resources
+F:\secrets\Bridge\Bridge\obj\Debug\Bridge.MainForm.resources
+F:\secrets\Bridge\Bridge\obj\Debug\Bridge.Translator.resources
+F:\secrets\Bridge\Bridge\obj\Debug\Bridge.csproj.GenerateResource.Cache
